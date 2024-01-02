@@ -2,21 +2,6 @@
 # MERN Stack Invoicing Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
-
-Panshak
-----
-
-  * [Introduction](#introduction)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Client](#client)
-      - [Server](#server)
-      - [Database](#database)
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Troubleshooting](#troubleshooting)
-  * [Author](#author)
-  * [License](#license)
-
 ## Key Features
 - Send invoices, receipts, estimates, quotations and bills via email
 - Generate and send/download pdf invoices, receipts, estimates, quotations and bills via email
